@@ -1,0 +1,35 @@
+{
+  "student_name": "Jordan",
+  "grade_level": "5",
+  "primary_concern": "Inconsistent work completion and on-task behavior during independent work time.",
+  "strengths": [
+    "Strong verbal reasoning skills",
+    "Participates well in group discussions",
+    "Responds positively to adult encouragement",
+    "Enjoys hands-on activities and science topics"
+  ],
+  "educator_observations": {
+    "patterns": [
+      "Work completion drops significantly during longer independent tasks.",
+      "Often begins work but gets stuck and stops without asking for help.",
+      "More engaged during structured, shorter tasks and when teacher checks in early.",
+      "Tends to avoid assignments that feel overwhelming or unclear."
+    ],
+    "triggers_or_barriers": [
+      "Difficulty breaking multi-step tasks into manageable parts.",
+      "Low initiation when unsure about expectations.",
+      "May feel embarrassed to ask for help in front of peers."
+    ]
+  },
+  "strategies_tried": [
+    "Verbal reminders to stay on task",
+    "Extra time to finish assignments",
+    "Teacher check-ins at the end of the work period"
+  ],
+  "educator_constraints": {
+    "time_available": "Teacher can provide 1–2 brief check-ins during independent work time.",
+    "classroom_context": "General education setting with 27 students; limited one-on-one availability.",
+    "materials_available": "Task checklists, timers, Chromebook, small group table when available."
+  },
+  "goal_timeframe_weeks": 8
+}
