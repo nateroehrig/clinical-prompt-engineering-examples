@@ -1,0 +1,38 @@
+{
+  "history": {
+    "birth_history": "Full-term pregnancy, uncomplicated delivery.",
+    "development": "Walked at 14 months, spoke first words around age 2. No major medical issues.",
+    "education": "Currently in 2nd grade. Teacher reports difficulties with attention and reading fluency."
+  },
+  "concerns": [
+    "Struggles to stay focused at home and school.",
+    "Reading is slow and effortful.",
+    "Often forgets multi-step directions."
+  ],
+  "assessment": {
+    "tools_used": [
+      "WISC-V",
+      "BASC-3 (Parent and Teacher)",
+      "WIAT-III",
+      "Classroom observation"
+    ]
+  },
+  "scores": {
+    "wisc_v": {
+      "verbal_comprehension": { "score": 95, "percentile": 37 },
+      "visual_spatial": { "score": 105, "percentile": 63 },
+      "fluid_reasoning": { "score": 90, "percentile": 25 },
+      "working_memory": { "score": 85, "percentile": 16 },
+      "processing_speed": { "score": 80, "percentile": 9 }
+    },
+    "wiat_iii": {
+      "basic_reading": { "score": 85, "percentile": 16 },
+      "reading_fluency": { "score": 80, "percentile": 9 },
+      "written_expression": { "score": 95, "percentile": 37 }
+    }
+  },
+  "observations": {
+    "classroom": "Student required frequent redirection, lost focus during independent work, and showed signs of frustration with reading tasks.",
+    "testing": "Worked hard throughout the assessment but needed repeated repetition of instructions and breaks between subtests."
+  }
+}
