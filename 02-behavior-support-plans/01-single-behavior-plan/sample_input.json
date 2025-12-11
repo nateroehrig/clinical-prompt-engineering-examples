@@ -1,0 +1,42 @@
+{
+  "student_profile": {
+    "name": "Aiden",
+    "age": 8,
+    "grade": 3,
+    "diagnoses": ["ADHD, Combined Presentation"],
+    "strengths": [
+      "Curious and loves science experiments",
+      "Responds well to visual schedules",
+      "Enjoys positive adult attention"
+    ]
+  },
+  "target_behavior": {
+    "behavior": "Leaving seat during independent work",
+    "operational_definition": "Aiden gets up from his seat and walks around the room for more than 5 seconds during assigned independent tasks.",
+    "frequency_per_day": 7,
+    "duration_average_seconds": 25,
+    "severity": "mild"
+  },
+  "abc_data": [
+    {
+      "antecedent": "Independent reading assignment began",
+      "behavior": "Left seat and walked to pencil sharpener",
+      "consequence": "Teacher redirected him and offered brief assistance"
+    },
+    {
+      "antecedent": "Math worksheet assigned",
+      "behavior": "Walked around the back of the classroom",
+      "consequence": "Teacher approached and reteached the task"
+    }
+  ],
+  "hypothesized_function": "Access to adult attention",
+  "environment_constraints": {
+    "time_available_at_home": "low",
+    "teacher_capacity": "moderate",
+    "materials_available": ["visual schedule", "timer"]
+  },
+  "intervention_goals": [
+    "Increase on-task time during independent work",
+    "Reduce out-of-seat behavior"
+  ]
+}
